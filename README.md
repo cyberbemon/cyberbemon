@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyberbemon
+- 👋 Hi, I’m cyberbemon
 - 👀 I’m interested in Baremetal programming, Rust, VHDL/Verilog/UVM.
 - 🌱 I’m currently pursuing a masters degree in embedded systems at Tampere university.
 - 📫 How to reach me: @cyberbemon on twitter
